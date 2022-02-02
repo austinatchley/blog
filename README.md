@@ -1,6 +1,6 @@
-# Nicholas' blog
+# Austin's blog
 
-This is the source code for my blog, that I host on a [digital ocean box](https://m.do.co/c/e1c4aa70f263), which is a service that I highly recommend.
+Forked from https://github.com/nichochar/blog
 
 Technology stack:
  * python3
